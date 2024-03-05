@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is my first backend project in express js",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "dip",
+    "javascript",
+    "mern",
+    "express.js"
+  ],
+  "author": "Dip Rana",
+  "license": "ISC"
+}
