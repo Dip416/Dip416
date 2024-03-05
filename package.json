@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "this is my first backend project in express js",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "backend",
@@ -15,5 +15,8 @@
     "express.js"
   ],
   "author": "Dip Rana",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
